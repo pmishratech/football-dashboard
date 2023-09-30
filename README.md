@@ -52,5 +52,10 @@ The FootballMatchClient class serves as an example of how to use the MatchManage
 The code has been optimized to reduce redundancy. Two methods have been introduced for better code organization:
 
 ### ExportingLibrary
-mvn clean install => Will create artifact and deploy the jar on your local or remote repo(if configured)
+- Clone this repository to your local machine:
+
+   ```shell
+   https://github.com/pmishratech/football-scoreboard
+   ```
+- mvn clean install => Will create artifact and deploy the jar on your local or remote repo(if configured)
 
